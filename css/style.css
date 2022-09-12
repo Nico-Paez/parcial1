@@ -1,0 +1,759 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&display=swap');
+
+*{
+    margin: 0rem;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    /* box-sizing: border-box; */
+}
+
+body{
+    margin: 0rem;
+    width: 100%;
+}
+
+footer{
+    margin-top: 10rem;
+    width: 100%;
+}
+
+.div1{
+    background-color: #1E1E26;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 15.438rem;
+}
+
+.div1telefono{
+    display: none;
+}
+
+i{
+    color: white;
+}
+
+.div2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    /* margin-left: 70px; */
+}
+
+.img1{
+    margin-top: 4.204rem;
+}
+
+.div2 ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: -1.875rem;
+    margin-bottom: 4.313rem;
+    margin-top: 4.188rem;
+}
+
+.div2 ul li{
+    font-size: 1.3rem;
+    margin: 0.5rem;
+}
+
+
+/* -------------------------------------------------- */
+
+
+.div10 p{
+    color: #8C8C94;
+    font-size: 0.781rem;
+    margin-top: 5.5rem;
+    text-align: end;
+}
+
+/* .div10{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.div10 p{
+    color: #FFFFFF;
+    margin-top: 3.5rem;
+}
+
+form{
+    display: flex;
+    align-items: flex-end;
+}
+
+form div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+<div class="div10">
+                    <form action="#" method="post">
+                        <div>
+                            <label for="correo"></label>
+                            <input type="email" name="email" id="correo" placeholder="Update in your inbox..." required>
+                        </div>
+                        <button type="submit">Go</button>
+                    </form>
+                    <p>Copyright 2020. All Rights Reserved</p>
+            </div> */
+
+.div11 ul li a{
+    color:#FFFFFF;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.div11 ul li{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    line-height: 2.4rem;
+}
+
+.div11 ul{
+    height: 10.625rem;
+}
+
+.button1{
+    background-color: #8B48BF;
+    color: #FFFFFF;
+    margin-top: 0.2rem;
+    margin-left: 0.7rem;
+    border: none;
+    border-radius: 3.125rem;
+    height: 2.625rem;
+    width: 3.938rem;
+}
+
+input{
+    border-radius: 3.125rem;
+    height: 2.75rem;
+    width: 12.563rem;
+    border: none;
+    text-indent: 0.625rem;
+}
+
+
+
+
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+
+
+
+
+.div7{
+    background-color: #8B48BF; 
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;  
+    /* flex-wrap: wrap; */
+}
+
+.button2{
+    background-color: #FFFFFF;
+    color: #8B48BF;
+    font-size: 0.824rem;
+    /* font-weight: 500; */
+    border: none;
+    border-radius: 3.125rem;
+    width: 8.375rem;
+    height: 2.75rem;
+    /* margin-right: 9.375rem; */
+    margin-right: 5.313rem;
+}
+
+.div111{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    /* 10.313rem */
+    padding: 4rem 0rem 4rem 6rem;
+    font-size: 2.5rem;
+    font-weight: 700;
+    height: 6rem;
+    width: 28.5rem;
+}
+
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 3.125rem;
+    /* background-color: #F5F5F5; */
+}
+
+header ul{
+    display: flex;
+}
+
+header ul li{
+    margin: 1rem;
+}
+
+header ul li a{
+    text-decoration: none;
+    color: #242E52;
+}
+
+header button{
+    background-color: #8B48BF;
+    color: #FFFFFF;
+    width: 8.375rem;
+    height: 2.75rem;
+    border-radius: 3.125rem;
+    border: none;
+}
+
+.headerA{
+    display: none;
+} 
+
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+
+/* .section1 div{ y asi */
+
+    main{
+        width: 100%;
+    }
+
+.section1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    flex-wrap: wrap-reverse;
+}
+
+.div222{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 31.25rem;
+}
+
+.div222 h1{
+    font-size: 3.625rem;
+    margin-bottom: 1.5rem;
+    margin-top: 4.688rem;
+    font-weight: 700;
+}
+
+.div222 p{
+    width: 22rem;
+    font-weight: 500;
+    line-height: 1.563rem;
+}
+
+.div222 button{
+    margin-top: 1.5rem;
+    background-color: #8B48BF;
+    color: #FFFFFF;
+    width: 8.375rem;
+    height: 2.75rem;
+    border-radius: 3.125rem;
+    border: none;
+    font-weight: 500;
+}
+
+/* */
+
+.section2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+
+.div333{
+    width: 31.25rem;
+}
+
+.div333 h2{
+    color: #232851;
+    width: 25rem;
+    margin-bottom: 1.5rem;
+    font-size: 2.25rem;
+    font-weight: 700;
+}
+
+.div333 p{
+    width: 21.063rem;
+    line-height: 1.563rem;
+    font-weight: 500;
+}
+
+.div444telefono{
+    display: none;
+}
+
+.div444{
+    width: 31.25rem;
+    margin-top: 0.625rem;
+    margin-right: 3.438rem;
+}
+
+.div444 section{
+    display: flex;
+    /* flex-direction: row; */
+}
+
+
+.p1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8B48BF;
+    color: #FFFFFF;
+    font-weight: 700;
+    padding: 0.625rem 1.5625rem;
+    width: 1rem;
+    height: 1.5rem;
+    border-radius: 1.875rem;
+    margin-right: 1.5rem;
+}
+
+/* .div777 h3{
+    color: #323851;
+    margin-top: 0.4rem;
+    margin-bottom: 1rem;
+} */
+
+.p00{
+    color: #323851;
+    font-weight: 700;
+    margin-top: 0.8rem;
+    margin-bottom: 1rem;   
+}
+
+.p000{
+    color: #B3B2B7;
+    margin-bottom: 1.875rem;
+    width: 27.313rem;
+    line-height: 1.563rem;
+}
+
+.p0{
+    color: #B3B2B7;
+    margin-bottom: 1.875rem;
+    width: 28.625rem;
+    line-height: 1.563rem;
+}
+
+.p0000{
+    color: #B3B2B7;
+    margin-bottom: 1.875rem;
+    /* width: 423px; */
+    width: 26rem;
+    line-height: 1.563rem;
+}
+
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* ---------------personajes------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+/* -------------------------------------------------- */
+
+.section3{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.section3 h2{
+    margin-bottom: 6rem;
+    font-weight: 700;
+    color: #242E53;
+    font-size: 2.4rem;
+    text-align: center;
+}
+
+.div9{
+    display: flex;
+    background-color: #FAFAFA;
+}
+
+.div9 article{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    margin: 1.25rem;
+    position: relative;
+}
+
+.p3{
+    color: #3F4868;
+}
+
+.img2{
+    position: absolute;
+    top: -3.5rem;
+}
+
+.p3{
+    font-weight: 700;
+    margin: 1rem;
+    margin-top: 2.5rem;
+}
+
+.p2{
+    width: 25.313rem;
+    height: 4.875rem;
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #B9B9C1;
+    line-height: 1.563rem;
+}
+
+.button3{
+    margin-top: 3rem;
+    background-color: #8B48BF;
+    color: #FFFFFF;
+    width: 8.375rem;
+    height: 2.75rem;
+    border-radius: 3.125rem;
+    border: none;
+}
+
+/* $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ */
+
+@media(max-width: 500px){
+    
+    body{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    /* header */
+
+    header{
+        justify-content: space-between;
+        width: 90%;
+    }
+
+    header ul{
+        display: none;
+    }
+
+    header button{
+        display: none;
+    }
+
+    .headerA{
+        display:inline;
+        font-size: 3.125rem;
+    }
+
+    /* main */
+
+    main{
+        width: 100%;
+    }
+
+    /* Primera Section */
+
+    .div222{
+        display: flex;
+        align-items: center;
+        width: 100%;
+    }
+
+    .div222 h1{
+        text-align: center;
+        color: #232C50;
+        /* margin-left: 5%;
+        margin-right: 5%; */
+        width: 100%;
+    }
+
+    .div222 p{
+        text-align: center;
+        font-weight: 500;
+        width: 75%;
+        /* margin-left: 5%;
+        margin-right: 5%; */
+    }
+
+    .section1 img{
+        width: 90%;
+    }
+
+    /* Segunda Section */
+
+    /* parte1 */
+
+    .section2 .div333{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 3.125rem;
+        width: 100%;
+    }
+
+    .section2 .div333 h2{
+        text-align: center;
+        width: 100%;
+    }
+
+    .section2 .div333 p{
+        text-align: center;
+        width: 90%;
+        margin-top: 1.563rem;
+        /* margin-left: 5%;
+        margin-right: 5%; */
+    }
+
+    /* parte2 */
+
+    main .section2 .div444{
+        display: none;
+    }
+
+    main .section2 .div444telefono{
+        display: flex;
+        flex-direction: column;
+        margin-top: 7rem;
+    }
+
+    .div444telefono section{
+        margin-left: 5%;
+    }
+
+    .section2 .div444telefono .espacio{
+        display: flex;
+        z-index: -1;
+        background-color: #8B48BF4D;
+        border-radius: 1.25rem 0rem 0rem 1.25rem;
+        height: 2.75rem;
+        /* height: 18.6%; */
+        /* width: 95%; */
+        width: 100%;
+        align-items: center;
+    }
+
+    .p00{
+        /* width: 90%; */
+        margin: 0rem;
+    }
+
+    .p0000{
+        margin-top: 2rem;
+        margin-left: 0.938rem;
+        width: 95%;
+    }
+
+    /* Tercera Section */
+
+    div.div9 article.anisha, div.div9 article.richard{
+        display: none;
+    }
+
+    .div9{
+        width: 90%;
+    }
+
+    .div9 .ali .p2{
+        width: 95%;
+        height: 90%;
+    }
+
+    /* Footer */
+
+    footer{
+        margin-top: 5rem;
+    }
+
+    /* Parte 1 */
+
+    .div7{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .div111{
+        text-align: center;
+        /* width: 500px; */
+        width: 100%;
+        height: 14.375rem;
+        padding: 0rem;
+    }
+
+    .div111 p{
+        width: 20.625rem;
+    }
+
+    .button2{
+        margin-right: 0rem;
+        margin-bottom: 2.5rem;
+    }
+
+    /* Parte 2 */
+
+    .div1{
+        display: none;
+    }
+
+    .div1telefono{
+        background-color: #1E1E26;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    /* .div1telefono div form{
+        width: 100%;
+    } */
+
+    .div5555{
+        width: 90%;
+    }
+
+    .div5555 form{
+        display: flex;
+        justify-content: center;
+        margin-top: 2.813rem;
+    }
+
+    .div1telefono div form input{
+        width: 70%;
+    }
+
+
+
+    /* .div11{
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    } */
+
+    /* .div11 ul{
+        width: 150px;
+    }
+
+    .div11 ul li{
+        width: 150px;
+    }
+
+    .div11 ul li a{
+        width: 150px;
+    } */
+
+    .div11-2{
+        display: flex;
+        justify-content: space-around;
+        /* width: 500px; */
+        width: 100%;
+        margin-top: 1.875rem;
+    }
+
+    .div11-2 ul{
+        padding: 0px;
+    }
+
+    .iconos2{
+        width: 90%;
+    }
+
+    .iconos2 ul{
+        display: flex;
+        font-size: 1.25rem;
+        margin-top: 1.875rem;
+        /* margin-left: 1.875rem; */
+        padding-left: 0rem;
+        width: 90%;
+        margin-right: 0rem;
+        margin-left: 5%;
+        justify-content: center;
+    }
+
+    .iconos2 ul li{
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+
+    .div1telefono img{
+        margin-top: 2.813rem;
+    }
+
+
+    .div1telefono p{
+        margin-top: 2.813rem;
+        margin-bottom: 2.813rem;
+        color: #8C8C94;
+    }    
+}
